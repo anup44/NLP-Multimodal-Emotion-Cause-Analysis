@@ -4,7 +4,7 @@
 
 The dataset for [SemEval-2024 Task 3: The Competition of Multimodal Emotion Cause Analysis in Conversations](https://nustm.github.io/SemEval-2024_ECAC/) is released here.
 
-
+### Link to Drivw with all model files: https://drive.google.com/drive/folders/1GfRx-1t08Kpp9-Yj_yRKvlV4R5roO4oE?usp=sharing
 
 ## File Description
 
